@@ -9,7 +9,7 @@ const resume = () => {
         <title>Priyanka | Resume</title>
         <meta
           name='description'
-          content='I’m a front-end web developer specializing in building (and occasionally designing) exceptional digital experiences.'
+          content='I am a front-end web developer specializing in building exceptional digital experiences.'
         />
         <link rel="icon" href="/fav.png" />
       </Head>
@@ -157,7 +157,7 @@ const resume = () => {
               Provided high quality of mathematical solutions for the students.
             </li>
             <li>
-              Customized tutoring and instructional approaches to meet the needs to diverse client populations. Propelled learning mastering and academic success for dozens of students, boosting their CGPA's and test scores to new bests.
+              Customized tutoring and instructional approaches to meet the needs to diverse client populations. Propelled learning mastering and academic success for dozens of students, boosting their CGPA and test scores to new bests.
             </li>
             <li>
              Dedicated and results-driven Mathematics Tutor with a passion for fostering a deep understanding of mathematical concepts among students

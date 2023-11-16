@@ -27,7 +27,7 @@ const property = () => {
           <p>Project</p>
           <h2>Overview</h2>
           <p>
-            This app was built using React JS. It contains the Home page where we displayed the trending products, offer banner, newsletter subscription form, then we made product page for men's category, women's category and kids category. 
+            This app was built using React JS. It contains the Home page where we displayed the trending products, offer banner, newsletter subscription form, then we made product page for men category, women category and kids category. 
             After that made the single product page with product image gallery, product price, product description and related products list, then the shopping cart page, that will display the product added in the cart. Then I also made the login register page where user can create an account or login to the Ecommerce website.
           </p>
           <a

@@ -28,8 +28,8 @@ const crypto = () => {
           <h2>Overview</h2>
           <p>
             I built this website to demonstrate knowledge working in React JS. This
-            app was built using React JS and is hosted on Vercel. It's composed of 
-            Hooks, Aos Library (Animation), React-Icons and video background. You can search 
+            app was built using React JS and is hosted on Vercel. It is composed of 
+            Hooks, Aos Library, React Icons and video background. You can search 
             your destination, select the date and price range. List of different packages are provided on the page using cards.
           </p>
           <a
