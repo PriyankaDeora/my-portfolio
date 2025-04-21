@@ -49,15 +49,9 @@ const resume = () => {
           </div>
         </div>
         <p>
-          Analytical, innovative, and motivated web development professional
-          with experience in customer service, team leadership, and
-          organizational effectiveness in fast-paced and challenging
-          environments. Adept at developing strategies and driving streamlined
-          operations. Diverse analytical skills, team collaboration, and
-          relationship building. Consummate professional, and motivated leader,
-          with solid interpersonal abilities and complex problem-solving skills.
-          Effective and proven track record of critical thinking, idea
-          generation, and optimizing efficiencies.
+          A results-driven Frontend Developer with hands-on experience in building modern, responsive web applications
+using React.js, Next.js, and TypeScript. Strong knowledge of JavaScript frameworks and keen on creating
+user-friendly interfaces. Looking for a challenging role to utilize my skills in web development and analytics.
         </p>
 
         {/* Skills */}
@@ -65,7 +59,6 @@ const resume = () => {
           <h5 className='text-center underline text-[18px] py-2'>Skills</h5>
           <p className='py-2'>
             <span className='font-bold'>Technical Skills</span>
-            <span className='px-2'>|</span>Front-End Web Developer
             <span className='px-2'>|</span> HTML
             <span className='px-2'>|</span>CSS
             <span className='px-2'>|</span>Javascript
@@ -82,10 +75,30 @@ const resume = () => {
           Professional Experience
         </h5>
         {/* Experience */}
+
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
-            NOVEL VERITAS
+            D'arteweb
+            </span>
+            <span className='px-2'>|</span>Udaipur, Rajasthan
+          </p>
+          <p className='py-1 italic'>Front End Web Developer (Oct.2024 - Current)</p>
+          <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
+            <li>
+              Working on Buktec, a pre-accounting application aimed at simplifying financial automated data entry and
+organization.
+            </li>
+            <li>
+              Developed and optimized responsive user interfaces using React.js to ensure a smooth user experience.
+            </li>
+          </ul>
+        </div>
+        
+        <div className='py-6'>
+          <p className='italic'>
+            <span className='font-bold italic'>
+            Hoicko Technologies Pvt. Ltd.
             </span>
             <span className='px-2'>|</span>Udaipur, Rajasthan
           </p>
