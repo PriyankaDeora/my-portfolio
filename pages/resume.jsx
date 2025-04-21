@@ -79,7 +79,7 @@ user-friendly interfaces. Looking for a challenging role to utilize my skills in
         <div className='py-6'>
           <p className='italic'>
             <span className='font-bold italic'>
-            D'arteweb
+            Darteweb
             </span>
             <span className='px-2'>|</span>Udaipur, Rajasthan
           </p>
