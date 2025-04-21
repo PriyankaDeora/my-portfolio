@@ -102,7 +102,7 @@ organization.
             </span>
             <span className='px-2'>|</span>Udaipur, Rajasthan
           </p>
-          <p className='py-1 italic'>Front End Web Developer (Sep.2023 - Current)</p>
+          <p className='py-1 italic'>Front End Web Developer (Sep.2023 - Sep.2024)</p>
           <ul className='list-disc list-outside px-7 py-1 leading-relaxed'>
             <li>
               Ensured comprehensive mobile responsive UI layouts with
